@@ -2,39 +2,68 @@
 
 🎓 Class of 2025 @ AUPP — Major in ICT (Specialization in MIS)  
 💻 Web developer focused on backend systems and APIs  
-📊 Learning data science through real-world problems and automation  
-🌍 Exploring how tech empowers youth, education, and society  
-🧪 Passionate about project-based learning, creativity, and community impact  
+📊 Exploring data science through real-world problems and automation  
+🌍 Passionate about using tech to empower youth, education, and society  
+🧪 Believer in project-based learning, creativity, and community impact  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Skill Set  
 
-**🌐 Web Development:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+### 🌐 Frontend
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
+</div>
 
-**🔧 Backend Development:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+### 🔧 Backend
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/fastapi-original.svg" alt="FastAPI" height="50" />
+</div>
 
-**💻 Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+### 🗃️ Databases
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mongoose-original.svg" alt="Mongoose" height="50" />
+</div>
 
-**🗃️ Databases:**  
-![MongoDB](https://img.shields.io/badge/Mongoose-880000?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+### 📊 Data Science / Tools
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="Power BI" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Orange_logo.svg" alt="Orange Data Mining" height="50" />
+</div>
 
+---
 
+## 🚀 Currently Exploring
+- 🧠 **Data Science** fundamentals  
+- 📈 **Data Visualization** tools (Power BI, Orange)  
+- 🤖 Machine learning with Python libraries  
+- 🛠️ Building full-stack APIs with FastAPI  
 
-## 🔗 Let's Keep in touch TT
+---
+
+## 📊 GitHub Stats
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sovatharothh&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sovatharothh&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Let's Keep in Touch
 
 🌐 **Portfolio**: [sovatharothel.web.app](https://sovatharothel.web.app)  
 💼 **LinkedIn**: [sovatharoth-hel](https://www.linkedin.com/in/sovatharoth-hel/)  
 📬 **Telegram**: [@Rothhel](https://t.me/Rothhel)
 
+---
