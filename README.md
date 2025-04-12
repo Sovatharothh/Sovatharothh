@@ -8,34 +8,21 @@
 
 ---
 
-## 🛠️ My Skill Set  
-
-### 🌐 Frontend
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
-</div>
-
-### 🔧 Backend
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="50" />
-</div>
-
-### 🗃️ Databases
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-</div>
-
-### 📊 Data Science / Tools
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="Power BI" height="50" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="50" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="50" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="50" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" height="50" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" height="50" />
+  <img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="50" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="50" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="50" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-880000?logo=mongodb&logoColor=white" alt="MongoDB" height="50" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" height="50" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" alt="PowerBI" height="50" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" height="50" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Photoshop" height="50" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/Orange-F4791F?logo=orange&logoColor=white" alt="Orange" height="50" />
 </div>
 
 
