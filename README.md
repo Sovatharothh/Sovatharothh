@@ -19,6 +19,8 @@
   <img style="margin: 10px" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="30" />
   <img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-880000?logo=mongodb&logoColor=white" alt="MongoDB" height="30" />
   <img style="margin: 10px" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" height="30" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/Streamlit-FF4B2B?logo=streamlit&logoColor=white" alt="Streamlit" height="30" /> 
+  <img style="margin: 10px" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" alt="Firebase" height="30" />  
   <img style="margin: 10px" src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" alt="PowerBI" height="30" />
   <img style="margin: 10px" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" height="30" />
   <img style="margin: 10px" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Photoshop" height="30" />
