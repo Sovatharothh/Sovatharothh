@@ -14,7 +14,6 @@
   <img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="30" />
   <img style="margin: 10px" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" height="30" />
   <img style="margin: 10px" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" height="30" />
-  <img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="30" />
   <img style="margin: 10px" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="30" />
   <img style="margin: 10px" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="30" />
   <img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-880000?logo=mongodb&logoColor=white" alt="MongoDB" height="30" />
